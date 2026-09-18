@@ -2,11 +2,7 @@
 A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
 
 ## 📑 Roadmap
-sql-data-analytics-project/
-│
-├── README.md
-├── docs/
-│   └── SQL Data Analytics Project Roadmap.png
+![SQL Data Analytics Project Roadmap](docs/SQL%20Data%20Analytics%20Project%20Roadmap.png)
 
 ## ☕ Stay Connected
 
