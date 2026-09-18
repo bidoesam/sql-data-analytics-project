@@ -71,19 +71,3 @@ FROM
 ) t
 GROUP BY customer_segment
 ORDER BY total_customers DESC;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-ORDER BY total_products DESC;
